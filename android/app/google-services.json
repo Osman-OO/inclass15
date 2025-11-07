@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261209782065",
+    "project_id": "inventory-app-osman",
+    "storage_bucket": "inventory-app-osman.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261209782065:android:a99badf0e14acd310a6210",
+        "android_client_info": {
+          "package_name": "com.example.inclass15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pqJuAy9bK21pW6FrAAI6XNub0CW7iIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
